@@ -1,5 +1,4 @@
 from aiogram import Bot, Dispatcher, executor, types
-import logging
 from db import Database
 
 TOKEN = "2138280761:AAFm9Mo__bmS9lLDBamjyLY4XEdZCHQHyHA"
